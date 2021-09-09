@@ -9,8 +9,6 @@ Connected through USB on desk so not attempts to save batteries.
 
 radio.config(group=1, power=1)
 
-ack = False
-sent = False
 count = 0
 
 def show():
